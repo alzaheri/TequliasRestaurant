@@ -1,0 +1,64 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+
+/*background-color:#fbf9f9;*/
+
+}
+
+.fixed-image-height {
+    height: 200px; /* Set the desired height */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+    width: 100%; /* Ensures the image takes the full width of the container */
+}
+.ingred{
+    width:90%;
+   background-color:#E7E7E7 rgb(239, 224, 224, 0.45);
+    
+}
+.rowindex{
+    width:23%;
+}
+
+.footer {
+    background-color: #d4d4d4;
+}
+.button-container {
+    display: flex;
+    justify-content: center; /* · Ê”Ìÿ «·√“—«— √›ﬁÌ« */
+    gap: 10px; /* „”«›… »Ì‰ «·√“—«— */
+    margin-top: 10px;/* ≈÷«›… „”«›… √⁄·Ï «·√“—«— Õ”» «·Õ«Ã… */
+  
+
+}
+.row {
+    width: 90%; /* ‰”»… ⁄—÷ «·⁄‰’— Õ”» «Õ Ì«Ãﬂ */
+    margin: 0 auto;   Ê”Ìÿ «·⁄‰’— √›ﬁÌ« 
+    text-align: center; /*  Ê”Ìÿ «·‰’Ê’ √Ê «·„Õ ÊÌ«  «·›—⁄Ì… */
+}
+.min-itm{
+
+ margin-left:70px;
+
+}
+.creat-item {
+    margin-left: 70px;
+}
