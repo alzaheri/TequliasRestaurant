@@ -38,9 +38,9 @@ body {
     width:23%;
 }
 
-.footer {
-    background-color: #d4d4d4;
-}
+/*.footer {
+    background-color: #d9e7fc99;
+}*/
 .button-container {
     display: flex;
     justify-content: center; /* · Ê”Ìÿ «·√“—«— √›ﬁÌ« */
@@ -61,4 +61,8 @@ body {
 }
 .creat-item {
     margin-left: 70px;
+}
+
+.custom-navbar, footer {
+    background-color: #d9e7fc99;
 }
