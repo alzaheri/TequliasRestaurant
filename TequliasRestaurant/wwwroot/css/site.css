@@ -18,10 +18,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
-
-background-color:#e6dede20;
-
+    margin-bottom: 60px;
+    background-color: #e6dede20;
 }
 
 .fixed-image-height {
